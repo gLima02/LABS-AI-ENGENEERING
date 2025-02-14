@@ -1,2 +1,3 @@
-# aula01-AI-ENGENEERING
-LABORATÓRIO 1 - aula 13.02 - AI Engeneering, Cognitive and Semantic Computation &amp; IoT
+# AI Engeneering, Cognitive and Semantic Computation & IoT
+
+Repositório criado para guardar "apostilas" da disciplina
